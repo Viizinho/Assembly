@@ -1,3 +1,6 @@
+extern scanf, printf
+global main
+
 section .bss
     ;variable declaration
     
